@@ -7,12 +7,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sohan022/faah-sound.git"
+    "url": "https://github.com/Sohan022/faaah-sound.git"
   },
   "bugs": {
-    "url": "https://github.com/Sohan022/faah-sound/issues"
+    "url": "https://github.com/Sohan022/faaah-sound/issues"
   },
-  "homepage": "https://github.com/Sohan022/faah-sound#readme",
+  "homepage": "https://github.com/Sohan022/faaah-sound#readme",
   "engines": {
     "vscode": "^1.95.0"
   },
